@@ -30,8 +30,7 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
  
 🕵🏻𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴 & 𝗧𝗼𝗼𝗹𝘀: Wireshark, SolarWinds, PRTG, Nagios
 
-🔥🧱🛡️ 𝗙𝗶𝗿𝗲𝘄𝗮𝗹𝗹 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆: Fortinet FortiGate, Palo Alto, Intrusion Detection System (IDS) / Intrusion Prevention System (IPS), SSL VPN,
-       Endpoint Security
+🔥🧱🛡️ 𝗙𝗶𝗿𝗲𝘄𝗮𝗹𝗹 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆: Fortinet, Palo Alto, Intrusion Detection System (IDS) / Intrusion Prevention System (IPS), SSL VPN, Endpoint Security
 
 🗄️ 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗦𝗲𝗿𝘃𝗲𝗿: Windows Server 2008/2012/2016/2019 (Active Directory, Group Policy, File/Print Servers, WSUS)
 
