@@ -16,17 +16,17 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 
 ## 🛠️ **Core Technical Skills**
 
-↔️𝗥𝗼𝘂𝘁𝗶𝗻𝗴 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀: Static, Default & Dynamic (OSPF, EIGRP, BGP, RIPv1 & RIPv2)
+↔️ 𝗥𝗼𝘂𝘁𝗶𝗻𝗴 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀: Static, Default & Dynamic (OSPF, EIGRP, BGP, RIPv1 & RIPv2)
 
-🔀𝗦𝘄𝗶𝘁𝗰𝗵𝗶𝗻𝗴: VLANs, Trunking, VTP, Inter-VLAN Routing, STP, RSTP & Ether-Channel
+🔀 𝗦𝘄𝗶𝘁𝗰𝗵𝗶𝗻𝗴: VLANs, Trunking, VTP, Inter-VLAN Routing, STP, RSTP & Ether-Channel
 
-🔄𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆/𝗥𝗲𝗱𝘂𝗻𝗱𝗮𝗻𝗰𝘆 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹: HSRP, VRRP & GLBP
+🔄 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆/𝗥𝗲𝗱𝘂𝗻𝗱𝗮𝗻𝗰𝘆 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹: HSRP, VRRP & GLBP
 
-🔐𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 (𝗟𝟯 & 𝗟𝟮): Static & Dynamic NAT, PAT, ACLs, Port Security, AAA, RADIUS, TACACS
+🔐 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 (𝗟𝟯 & 𝗟𝟮): Static & Dynamic NAT, PAT, ACLs, Port Security, AAA, RADIUS, TACACS
 
-🌐𝗪𝗔𝗡 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀: VPN (Site-to-Site, Point-to-Point, OpenVPN), GRE Tunnel Over IPsec
+🌐 𝗪𝗔𝗡 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀: VPN (Site-to-Site, Point-to-Point, OpenVPN), GRE Tunnel Over IPsec
 
- ɪᴘ 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹 & 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀: OSI, TCP/IP, IPv4/IPv6, IPX, DHCP, DNS, ARP, IIS, HTTP, HTTPS, FTP, SSH
+ɪᴘ 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹 & 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀: OSI, TCP/IP, IPv4/IPv6, IPX, DHCP, DNS, ARP, IIS, HTTP, HTTPS, FTP, SSH
  
 🕵🏻 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴 & 𝗧𝗼𝗼𝗹𝘀: Wireshark, SolarWinds, PRTG, Nagios
 
@@ -34,17 +34,17 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 
 🗄️ 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗦𝗲𝗿𝘃𝗲𝗿: Windows Server 2008/2012/2016/2019 (Active Directory, Group Policy, File/Print Servers, WSUS)
 
-🖥️𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗖𝗹𝗶𝗲𝗻𝘁: Windows 11 / 10 / 7 / XP
+🖥️ 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗖𝗹𝗶𝗲𝗻𝘁: Windows 11 / 10 / 7 / XP
 
 🐧 𝗟𝗶𝗻𝘂𝘅 𝗦𝗲𝗿𝘃𝗲𝗿 / 𝗖𝗹𝗶𝗲𝗻𝘁: Linux Red Hat / CentOS / Ubuntu / Debian & SUSE
 
-   𝗔𝗽𝗽𝗹𝗲: Mac OS X Server/Cheetah/Puma/Jaguar/Panther & Tiger
+  𝗔𝗽𝗽𝗹𝗲: Mac OS X Server/Cheetah/Puma/Jaguar/Panther & Tiger
  
 🖧 𝗩𝗶𝗿𝘁𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: VMware ESXi (vSphere, vCentre, vMotion, HA), Microsoft Hyper-V
 
 🛢️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: MySQL, PostgreSQL, Relational databases (SQL), Non-relational databases (NoSQL)
 
-🔧𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗜𝗮𝗖, 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 & 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴: Bash Shell Scripting, PowerShell, Python, Ansible, Terraform, YAML
+🔧 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗜𝗮𝗖, 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 & 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴: Bash Shell Scripting, PowerShell, Python, Ansible, Terraform, YAML
 
 ⛃ 𝗕𝗮𝗰𝗸𝘂𝗽 & 𝗗𝗥: Veeam Backup, Symantec Backup Exec, Acronis, Disaster Recovery Planning
 
