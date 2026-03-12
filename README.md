@@ -9,12 +9,12 @@ With over 12+ years of experience in 🌐 Network ┊ 🗄️ System ┊ 🕵�
 
 ---
 
-## 🚀 About Me  
+## 🚀 **About Me**
 Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise in network, system, cybersecurity, and cloud platforms such as AWS and Azure. Specializes in large-scale network optimization and cybersecurity. Proficient in Cisco network solutions, contributing to a 𝟯𝟬 % decrease in downtime through strategic upgrades and configurations.
 
 
 
-🛠️𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦
+## 🛠️ **Core Technical Skills**
 
 ↔️𝗥𝗼𝘂𝘁𝗶𝗻𝗴 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀: Static, Default & Dynamic (OSPF, EIGRP, BGP, RIPv1 & RIPv2)
 
