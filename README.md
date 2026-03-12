@@ -10,10 +10,32 @@ With over 12+ years of experience in 🌐 Network ┊ 🗄️ System ┊ 🕵�
 ---
 
 ## 🚀 About Me  
-- 💡 Passionate about **building scalable infrastructure** and **automation with DevOps tools**  
-- ☁️ Skilled in **AWS Cloud Services** and **Infrastructure as Code (IaC)**  
-- 🔧 Hands-on with **CI/CD pipelines, containerization, and orchestration**  
-- 📚 Currently exploring **advanced Kubernetes & Terraform modules**  
+Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise in network, system, cybersecurity, and cloud platforms such as AWS and Azure. Specializes in large-scale network optimization and cybersecurity. Proficient in Cisco network solutions, contributing to a 𝟯𝟬 % decrease in downtime through strategic upgrades and configurations.
+
+
+
+🛠️𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦
+
+↔️𝗥𝗼𝘂𝘁𝗶𝗻𝗴 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀: Static, Default & Dynamic (OSPF, EIGRP, BGP, RIPv1 & RIPv2)
+🔀𝗦𝘄𝗶𝘁𝗰𝗵𝗶𝗻𝗴: VLANs, Trunking, VTP, Inter-VLAN Routing, STP, RSTP & Ether-Channel
+🔄𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆/𝗥𝗲𝗱𝘂𝗻𝗱𝗮𝗻𝗰𝘆 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹: HSRP, VRRP & GLBP
+🔐𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 (𝗟𝟯 & 𝗟𝟮): Static & Dynamic NAT, PAT, ACLs, Port Security, AAA, RADIUS, TACACS
+🌐𝗪𝗔𝗡 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀: VPN (Site-to-Site, Point-to-Point, OpenVPN), GRE Tunnel Over IPsec
+ ɪᴘ 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹 & 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀: OSI, TCP/IP, IPv4/IPv6, IPX, DHCP, DNS, ARP, IIS, HTTP, HTTPS, FTP, SSH
+🕵🏻𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴 & 𝗧𝗼𝗼𝗹𝘀: Wireshark, SolarWinds, PRTG, Nagios
+🔥🧱🛡️ 𝗙𝗶𝗿𝗲𝘄𝗮𝗹𝗹 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆: Fortinet FortiGate, Palo Alto, Intrusion Detection System (IDS) / Intrusion Prevention System (IPS), SSL VPN, Endpoint Security
+🗄️ 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗦𝗲𝗿𝘃𝗲𝗿: Windows Server 2008/2012/2016/2019 (Active Directory, Group Policy, File/Print Servers, WSUS)
+🖥️𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗖𝗹𝗶𝗲𝗻𝘁: Windows 11 / 10 / 7 / XP
+🐧 𝗟𝗶𝗻𝘂𝘅 𝗦𝗲𝗿𝘃𝗲𝗿 / 𝗖𝗹𝗶𝗲𝗻𝘁: Linux Red Hat / CentOS / Ubuntu / Debian & SUSE
+   𝗔𝗽𝗽𝗹𝗲: Mac OS X Server/Cheetah/Puma/Jaguar/Panther & Tiger
+🖧 𝗩𝗶𝗿𝘁𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: VMware ESXi (vSphere, vCentre, vMotion, HA), Microsoft Hyper-V
+🛢️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: MySQL, PostgreSQL, Relational databases (SQL), Non-relational databases (NoSQL)
+🔧𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗜𝗮𝗖, 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 & 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴: Bash Shell Scripting, PowerShell, Python, Ansible, Terraform, YAML
+⛃ 𝗕𝗮𝗰𝗸𝘂𝗽 & 𝗗𝗥: Veeam Backup, Symantec Backup Exec, Acronis, Disaster Recovery Planning
+👨‍💻 𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗠𝗼𝗱𝗲𝗹𝘀: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS)
+🐳 𝗖𝗼𝗻𝘁𝗮𝗶𝗻𝗲𝗿𝗶𝘇𝗮𝘁𝗶𝗼𝗻 & 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺: Docker, Kubernetes
+📊 𝗢𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆, 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴 & 𝗟𝗼𝗴𝗴𝗶𝗻𝗴: Prometheus, Grafana
+☁️ 𝗖𝗹𝗼𝘂𝗱 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 / 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Amazon AWS (IAM, EC2, Lambda, S3, VPC, ELB, RDS, CloudFront, Route 53), Microsoft Azure (Virtual Machine, Azure AD, VNet, Microsoft Office 365, Intune, MDM)
 
 ![Working GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)  
 
