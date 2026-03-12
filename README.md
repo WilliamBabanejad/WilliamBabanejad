@@ -1,6 +1,9 @@
 # 👋 Hi, I'm William
 
-🌐 **Cloud & DevOps Enthusiast** | ☁️ **AWS Practitioner** | ⚡ **Automation & CI/CD Learner**
+With over 12+ years of experience in 🌐 Network ┊ 🗄️ System ┊ 🕵🏼‍♂️ Cybersecurity ┊ 🔥 Firewall Security, and ☁️ Cloud technologies, including Amazon AWS and Microsoft Azure #CCNA #CCNP #AWS #AZURE #Fortinet #PaloAlto
+
+🌐 **Cloud & DevOps Enthusiast** | ☁️ **AWS Practitioner** | ⚡ **Automation & CI/CD**
+
 
 ![Cloud Animation](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)  
 
