@@ -67,7 +67,7 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 
 
 ### ☁️ Cloud Platforms  
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?&style=for-the-badge&logo=msazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?&style=for-the-badge&logo=msazure&logoColor=white) ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 ### 🔧 Automation Infrastructure as Code (IaC), Configuration Management
