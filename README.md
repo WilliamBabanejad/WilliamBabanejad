@@ -102,7 +102,7 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 - **Kubernetes Cluster Management** at scale  
 - **Terraform & Ansible automation**  
 
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
+![Coding Cat](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV0MG5pMzQ2NXhybnIzdWU3amoyNmtlMXh2ZnpiZm12NTBwc3k2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif)  
 
 ---
 
