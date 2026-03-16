@@ -56,7 +56,7 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 
 ☁️ 𝗖𝗹𝗼𝘂𝗱 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀 / 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: Amazon AWS (IAM, EC2, Lambda, S3, VPC, ELB, RDS, CloudFront, Route 53), Microsoft Azure (Virtual Machine, Azure AD, VNet, Microsoft Office 365, Intune, MDM)
 
-![Working GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)  
+![Working GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVtOTZjZmF2aTlueTFkdHYyZnZtMmNqOGEyanc3M3R5eXI4bTBqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dVKVnAhHBB8PcacCiM/giphy.gif)  
 
 ---
 
