@@ -8,7 +8,7 @@ With over 12+ years of experience in 🌐 Network ┊ 🗄️ System ┊ 🕵�
 
 
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFvNTFnMGQzNnUzeml0NzlnZmpxYWMzdXVweWF1OXM4a2owNTB5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFvNTFnMGQzNnUzeml0NzlnZmpxYWMzdXVweWF1OXM4a2owNTB5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 
 ![Cloud Animation] <img align=right src=https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?width=100>) ![Coding Work](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFvNTFnMGQzNnUzeml0NzlnZmpxYWMzdXVweWF1OXM4a2owNTB5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
