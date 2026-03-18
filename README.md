@@ -42,9 +42,9 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 
 🖥️ 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗖𝗹𝗶𝗲𝗻𝘁: Windows 11 / 10 / 7 / XP
 
-🐧 𝗟𝗶𝗻𝘂𝘅 𝗦𝗲𝗿𝘃𝗲𝗿 / 𝗖𝗹𝗶𝗲𝗻𝘁: Linux Red Hat / CentOS / Ubuntu / Debian & SUSE
+🐧 𝗟𝗶𝗻𝘂𝘅 𝗦𝗲𝗿𝘃𝗲𝗿 Apple / 𝗖𝗹𝗶𝗲𝗻𝘁: Linux Red Hat / CentOS / Ubuntu / Debian & SUSE
 
-  𝗔𝗽𝗽𝗹𝗲: Mac OS X Server/Cheetah/Puma/Jaguar/Panther & Tiger
+  𝗔𝗽𝗽𝗹𝗲 Apple Mac OS X Server/Cheetah/Puma/Jaguar/Panther & Tiger
  
 🖧 𝗩𝗶𝗿𝘁𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: VMware ESXi (vSphere, vCentre, vMotion, HA), Microsoft Hyper-V
 
