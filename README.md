@@ -14,7 +14,7 @@ With over 12+ years of experience in 🌐 Network ┊ 🗄️ System ┊ 🕵�
 Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise in network, system, cybersecurity, and cloud platforms such as AWS and Azure. Specializes in large-scale network optimization and cybersecurity. Proficient in Cisco network solutions, contributing to a 𝟯𝟬 % decrease in downtime through strategic upgrades and configurations.
 
 
-
+---
 ## 🛠️ **Core Technical Skills**
 
 ↔️ 𝗥𝗼𝘂𝘁𝗶𝗻𝗴 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹𝘀: Static, Default & Dynamic (OSPF, EIGRP, BGP, RIPv1 & RIPv2)
@@ -61,9 +61,9 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 
 ---
 
-## 🛠️ Skills & Tools
-
-### 🖥️ Operating System
+### 🛠️ Skills & Tools
+---
+## 🖥️ Operating System
 [![Windows 10](https://custom-icon-badges.demolab.com/badge/Windows%2010-0078D6?&style=for-the-badge&logo=windows11&logoColor=white)](#) ![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?&style=for-the-badge&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) [![CentOS](https://img.shields.io/badge/CentOS-A14F8C?style=for-the-badge&logo=centos&logoColor=white)](#) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff)](#) ![Parrot Security](https://img.shields.io/badge/parrot_security-%23000000.svg?style=for-the-badge&logo=parrotsecurity&logoColor=#15E0ED) [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)](#) [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](#) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ---
 
