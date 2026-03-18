@@ -44,7 +44,7 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 
 🐧 𝗟𝗶𝗻𝘂𝘅 𝗦𝗲𝗿𝘃𝗲𝗿 Apple / 𝗖𝗹𝗶𝗲𝗻𝘁: Linux Red Hat / CentOS / Ubuntu / Debian & SUSE
 
-  𝗔𝗽𝗽𝗹𝗲 Apple Mac OS X Server/Cheetah/Puma/Jaguar/Panther & Tiger
+  𝗔𝗽𝗽𝗹𝗲 **Apple** Mac OS X Server/Cheetah/Puma/Jaguar/Panther & Tiger
  
 🖧 𝗩𝗶𝗿𝘁𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: VMware ESXi (vSphere, vCentre, vMotion, HA), Microsoft Hyper-V
 
