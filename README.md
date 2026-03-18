@@ -6,7 +6,7 @@ With over 12+ years of experience in 🌐 Network ┊ 🗄️ System ┊ 🕵�
 🌐 **Cloud & DevOps Enthusiast** | ☁️ **AWS Practitioner** | ⚡ **Automation & CI/CD**
 
 
-![Cloud Animation](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif) ![Coding Work](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFvNTFnMGQzNnUzeml0NzlnZmpxYWMzdXVweWF1OXM4a2owNTB5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![Cloud Animation](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif?w=50%) ![Coding Work](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFvNTFnMGQzNnUzeml0NzlnZmpxYWMzdXVweWF1OXM4a2owNTB5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
