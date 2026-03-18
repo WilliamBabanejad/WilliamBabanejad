@@ -1,4 +1,4 @@
-![William](https://github.com/WilliamBabanejad/William/blob/main/William%20Final.gif)
+![William](https://github.com/WilliamBabanejad/WilliamBabanejad/blob/main/William%20Final.gif)
 
 ---
 With over 12+ years of experience in 🌐 Network ┊ 🗄️ System ┊ 🕵🏼‍♂️ Cybersecurity ┊ 🔥 Firewall Security, and ☁️ Cloud technologies, including Amazon AWS and Microsoft Azure #CCNA #CCNP #AWS #AZURE #Fortinet #PaloAlto
