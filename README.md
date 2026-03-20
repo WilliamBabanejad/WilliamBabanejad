@@ -17,7 +17,7 @@ With over 12+ years of experience in 🌐 Network ┊ 🗄️ System ┊ 🕵�
 ## 🚀 **About Me**
 Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise in network, system, cybersecurity, and cloud platforms such as AWS and Azure. Specializes in large-scale network optimization and cybersecurity. Proficient in Cisco network solutions, contributing to a 𝟯𝟬 % decrease in downtime through strategic upgrades and configurations.
 
-<img src="https://github.com/WilliamBabanejad/WilliamBabanejad/blob/main/dev-working_rounded.gif" width="600">
+<img src="https://github.com/WilliamBabanejad/WilliamBabanejad/blob/main/dev-working_rounded.gif" width="500" height="300"> <img src="https://github.com/WilliamBabanejad/WilliamBabanejad/blob/main/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="500" height="300">
 
 ---
 ## 🛠️ **Core Technical Skills**
@@ -65,56 +65,44 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 ![Working GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVtOTZjZmF2aTlueTFkdHYyZnZtMmNqOGEyanc3M3R5eXI4bTBqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dVKVnAhHBB8PcacCiM/giphy.gif)  ![Coding Software](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQxZmkwbmxqY2EwNXZyb2l2YTN0Ym85OGl5cnF6dXRzcWdjMTlmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.gif)
 
 ---
+## 🛠️ Skills & Tools
 
-### 🛠️ Skills & Tools
----
-## 🖥️ Operating System
+
+### 🖥️ Operating System
 [![Windows 10](https://custom-icon-badges.demolab.com/badge/Windows%2010-0078D6?&style=for-the-badge&logo=windows11&logoColor=white)](#) ![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D6?&style=for-the-badge&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) [![CentOS](https://img.shields.io/badge/CentOS-A14F8C?style=for-the-badge&logo=centos&logoColor=white)](#) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff)](#) ![Parrot Security](https://img.shields.io/badge/parrot_security-%23000000.svg?style=for-the-badge&logo=parrotsecurity&logoColor=#15E0ED) [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)](#) [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](#) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ---
 
-
+### ↔️ Router
+![Static Badge](https://img.shields.io/badge/cisco-white?style=for-the-badge&logo=cisco&logoSize=auto&labelColor=white&color=blue) ![Static Badge](https://img.shields.io/badge/juniper%20networks-white?style=for-the-badge&logo=junipernetworks&logoColor=black&logoSize=auto&labelColor=white&color=black)
+---
+### 🛡️ Firewall Security
+![Static Badge](https://img.shields.io/badge/fortinet-white?style=for-the-badge&logo=fortinet&logoSize=auto&labelColor=white) ![Static Badge](https://img.shields.io/badge/Palo%20Alto%20Networks-black?style=for-the-badge&logo=paloaltonetworks&logoSize=auto&labelColor=white)
+---
 ### ☁️ Cloud Platforms  
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?&style=for-the-badge&logo=msazure&logoColor=white) ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ---
-
-
 ### 🔧 Automation Infrastructure as Code (IaC), Configuration Management
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ---
-
-
 ### 🗄️ Web Servers
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ---
-
-
 ### 📊 Observability, Moniitor & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Wireshark](https://img.shields.io/badge/wireshark-black?style=for-the-badge&logo=wireshark&logoColor=white&logoSize=auto&labelColor=blue&color=black) ![SolarWind](https://custom-icon-badges.demolab.com/badge/solarwind-0089D6?&style=for-the-badge&logo=solarwind&logoSize=auto&labelColor=white&color=darkorange) ![PRTG](https://custom-icon-badges.demolab.com/badge/PRTG-0089D6?&style=for-the-badge&logo=paessler&logoSize=auto&labelColor=white&color=blue) ![Nagios](https://custom-icon-badges.demolab.com/badge/Nagios-0089D6?&style=for-the-badge&logo=Nagios&logoSize=auto&labelColor=white&color=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-black?style=for-the-badge&logo=splunk&logoColor=black&logoSize=auto&labelColor=white&color=orange)
 ---
-
-
 ### ⚡ CI/CD (Version Control) & Tools
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ---
-
-
 ### 🐳 Containerization & Orchestration Platform
  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
  ---
- 
-
-
-### 💻 Programming & Scripting Languages  
+ ### 💻 Programming & Scripting Languages  
 ![Bash Script](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?&style=for-the-badge&logo=powershell-white&logoColor=fff)](#) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=vsc&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=fff) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)](#) [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](#)
 ---
-
-
-
 ### 🤖 Artificial Intelligence
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](#) [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=fff)](#) ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
 ---
-
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -127,7 +115,6 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 </div>  
 
 ---
-
 ## 🌱 Currently Learning  
 - Advanced **AWS Solutions Architect** concepts  
 - **Kubernetes Cluster Management** at scale  
