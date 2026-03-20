@@ -17,7 +17,7 @@ With over 12+ years of experience in 🌐 Network ┊ 🗄️ System ┊ 🕵�
 ## 🚀 **About Me**
 Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise in network, system, cybersecurity, and cloud platforms such as AWS and Azure. Specializes in large-scale network optimization and cybersecurity. Proficient in Cisco network solutions, contributing to a 𝟯𝟬 % decrease in downtime through strategic upgrades and configurations.
 
-<img src="https://github.com/WilliamBabanejad/WilliamBabanejad/blob/main/dev-working_rounded.gif" width="400" height="350"> <img src="https://github.com/WilliamBabanejad/WilliamBabanejad/blob/main/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" height="300">
+<img src="https://github.com/WilliamBabanejad/WilliamBabanejad/blob/main/dev-working_rounded.gif" width="400" height="250"> <img src="https://github.com/WilliamBabanejad/WilliamBabanejad/blob/main/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" height="300">
 
 ---
 ## 🛠️ **Core Technical Skills**
