@@ -53,7 +53,7 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 
 🔧 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗜𝗮𝗖, 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 & 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴: Bash Shell Scripting, PowerShell, Python, Ansible, Terraform, YAML
 
-⛃ 𝗕𝗮𝗰𝗸𝘂𝗽 & 𝗗𝗥: Veeam Backup, Symantec Backup Exec, Acronis, Disaster Recovery Planning
+⛃ 𝗕𝗮𝗰𝗸𝘂𝗽 & 𝗗𝗥: Veeam Backup, Symantec Backup Exec, Veritas Backup Exec, Acronis, Disaster Recovery Planning
 
 👨‍💻 𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗠𝗼𝗱𝗲𝗹𝘀: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS)
 
@@ -90,6 +90,9 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 ---
 ### 🖧 Virtualization
 ![VMware EXSi](https://img.shields.io/badge/VMware%20EXSi-gray?style=for-the-badge&logo=vmware&logoColor=gray&logoSize=auto&labelColor=white) ![Microsoft Hyper-V](https://custom-icon-badges.demolab.com/badge/Microsoft%20Hyper%20V-black?&style=for-the-badge&logo=windows11&logoColor=black&logoSize=auto&labelColor=blue&color=57A0D2)
+---
+### ⛃ Backup & Disaster Recovery (DR)
+![Veeam](https://img.shields.io/badge/-%2300B336?style=for-the-badge&logo=veeam&logoColor=white&logoSize=auto) ![Symantec](https://img.shields.io/badge/Symantec%20Backup%20Exec-white?style=for-the-badge&logo=symantec&logoColor=%23FDB511&logoSize=auto) ![Veritas](https://img.shields.io/badge/Veritas%20Backup%20Exec-white?style=for-the-badge&logo=veritas&logoColor=%23B1181E&logoSize=auto)
 ---
 ### 🔧 Automation Infrastructure as Code (IaC), Configuration Management
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
