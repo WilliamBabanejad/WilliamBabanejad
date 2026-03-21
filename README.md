@@ -49,7 +49,7 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
  
 🖧 𝗩𝗶𝗿𝘁𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: VMware ESXi (vSphere, vCentre, vMotion, HA), Microsoft Hyper-V
 
-🛢️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: MySQL, PostgreSQL, Relational databases (SQL), Non-relational databases (NoSQL)
+🛢️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: MySQL, PostgreSQL, Relational databases (SQL), Non-relational databases (NoSQL)
 
 🔧 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗜𝗮𝗖, 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 & 𝗦𝗰𝗿𝗶𝗽𝘁𝗶𝗻𝗴: Bash Shell Scripting, PowerShell, Python, Ansible, Terraform, YAML
 
@@ -90,6 +90,9 @@ Network Administrator & System Engineer with over 𝟭𝟮+ years of expertise i
 ---
 ### 🔧 Automation Infrastructure as Code (IaC), Configuration Management
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+---
+### 🛢️ Databases
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=fff)](#) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?&style=for-the-badge&logo=mariadb&logoColor=white)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?&style=for-the-badge&logo=mssqlserver-white&logoColor=white)](#) [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?&style=for-the-badge&logo=oracle&logoColor=fff)](#)
 ---
 ### 🗄️ Web Servers
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
